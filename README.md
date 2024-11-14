@@ -4,9 +4,9 @@ Este projeto contém testes automatizados utilizando o WebdriverIO como framewor
 
 ## Tecnologias Utilizadas
 
-- Appium: Framework para automação de dispositivos móveis
-- WebDriverIO (WDIO): Ferramenta de automação web para Node.js
-- Mocha: Framework de teste comportamental
+- Appium: Framework para automação de testes móveis Android e iOS
+- WebDriverIO (WDIO): Framework de teste automatizado com suporte a web e mobile
+- Mocha: Runner de testes JavaScript com framework BDD
 
 ## Configuração
 
