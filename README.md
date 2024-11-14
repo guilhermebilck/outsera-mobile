@@ -1,6 +1,6 @@
 # Mobile Testing Project with Appium
 
-Este projeto contém testes automatizados móveis utilizando Appium e WebDriverIO (WDIO) para Android.
+Este projeto contém testes automatizados utilizando o WebdriverIO como framework de teste e o Appium como plataforma para executar testes móveis Android.
 
 ## Tecnologias Utilizadas
 
