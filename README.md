@@ -1,4 +1,4 @@
-# Mobile Testing Project with Appium and JavaScript
+# Mobile Testing Project with Appium
 
 Este projeto contém testes automatizados móveis utilizando Appium e WebDriverIO (WDIO) para Android.
 
