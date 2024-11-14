@@ -29,3 +29,12 @@ Para configurar o ambiente de desenvolvimento:
 Para executar todos os testes:
 
   npx wdio run wdio.conf.js
+
+## Tarefas 1 e 2
+
+- A tarefa 1 está contemplada no cenário "should open the app and navigate to Accessibility Node Provider".
+- A tarefa 2 est´á contemplada no cenário "should fill out an example form".
+
+## Resultados
+
+Os resultados podem ser observados através de gravações na pasta "Resultados" na raiz do projeto.
